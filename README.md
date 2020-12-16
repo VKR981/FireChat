@@ -1,5 +1,5 @@
 # FireChat App
-Realtime chat app with websockets using Node.js, Express and Socket.io
+Realtime chat app with websockets using React Native, Node.js, Express and Socket.io
 <table fill="red" style="color:orange;" style="text-align: center;  background-color: #F9A825;">
   <tr align="left" fill="red" style="color:orange;" style="text-align: center;  background-color: #F9A825;">
     <td width="50%" bgcolor="red">
